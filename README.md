@@ -44,7 +44,7 @@ A real-time **Personal Protective Equipment (PPE) Detection System** powered by 
 pip install -r requirements.txt
 ```
 3. Download YOLOv8 model weights:
-   * Place the trained YOLOv8 model (best.pt) in the project_3 folder.
+   * Download the trained YOLOv8 model (best.pt) .
 
 4. Run the project:
   * For a video file:
